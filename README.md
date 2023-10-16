@@ -2,7 +2,9 @@
 Discription :-> If you are enter any URL of website this project will short your URL and database will fatch all data like how many times clicked on this website fatch ip address of user and current date of clicked and also mentioned total clicked of count that will show in database.
 
 Technologies :-> Nodejs , Expressjs, MongoDb
+
 Supportive application :-> Postman
+
 Node packages :-> express, mongoose, shortid, nodemon
 
 Note :-> This project is created in only backend not Ui mentioned In future i added.
